@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "oral-exam-protocol-helper",
+	"name": "Oral Exam Protocol Helper",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "A little helper plugin for protocols of oral exams that follow a certain format to calculate points and suggest a mark.",
+	"author": "Marvin Davieds",
+	"authorUrl": "https://github.com/marvindv",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
